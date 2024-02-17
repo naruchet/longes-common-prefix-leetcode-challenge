@@ -1,1 +1,1 @@
-# longes-common-prefix-leetcode-challenge-
+# longes-common-prefix-leetcode-challenge
